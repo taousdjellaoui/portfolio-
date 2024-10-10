@@ -94,7 +94,7 @@ color:white;
 
 }
 #home img{
-width:30vw;
+width:100%;
 border-radius: 1%;
 margin-top: 3em;
 
@@ -148,7 +148,7 @@ margin-top: 3em;
 
 }
 #about img{
-  width: 50vw;
+  width: 30vw;
   border-radius:1em;
 
 }
