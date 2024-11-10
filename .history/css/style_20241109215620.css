@@ -85,7 +85,7 @@ span {
 #menu {
   color: white;
   font-size: 3em;
-  display: none;
+  display: block;
 }
 
 section {
