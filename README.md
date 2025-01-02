@@ -7,7 +7,6 @@ Par manque de temps, certaines fonctionnalités prévues n’ont pas encore ét�
 
 ## Fonctionnalités prévues
 	•	Ajout de sections interactives
-	•	Intégration d’animations modernes
 	•	Compatibilité avec les appareils mobiles (responsive design)
 	•	Mise en avant de projets réalisés
 
